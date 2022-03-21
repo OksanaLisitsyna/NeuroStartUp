@@ -2,6 +2,7 @@
 
 tmp/
 *old
+index.html_old
 *.backup
 Thumbs.db
 .DS_Store
